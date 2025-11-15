@@ -24,11 +24,7 @@ Nossa meta é tornar o aprendizado mais acessível e prático para todos!
 
 🔹 **Site da Monitoria**
 Material institucional, páginas informativas e centralização de conteúdo.
-➡️ `github.com/monitoria-ti/site`
-
-🔹 **Bot do Discord**
-Ferramentas para gerenciamento, avisos automáticos, comandos úteis e integração para alunos.
-➡️ `github.com/monitoria-ti/discord-bot`
+➡️ `https://github.com/Lucasvillas/Site-monitoria`
 
 🔹 **Cursos & Materiais Didáticos**
 Repositórios organizados por curso (Python, Git, Linux, Redes, etc).
@@ -55,12 +51,13 @@ A maioria dos repositórios é aberta para que outros estudantes possam aprender
 
 ## 📞 **Onde nos encontrar**
 
-🌐 Site: [site oficial](https://site-monitoria-blue.vercel.app/index.html)
-📧 E-mail: [monitoriaticeub@gmail.com](mailto:monitoriaticeub@gmail.com)
-💬 Discord: [https://discord.com/invite/gmuPw7Za](https://discord.com/invite/gmuPw7Za)
-📸 Instagram: @monitoriatech
-📞 +55 61 9877-1629
-🎓 CEUB
+* 🌐 Site: [site oficial](https://site-monitoria-blue.vercel.app/index.html)
+
+* 📧 E-mail: [monitoriaticeub@gmail.com](mailto:monitoriaticeub@gmail.com)
+* 💬 Discord: [https://discord.com/invite/gmuPw7Za](https://discord.com/invite/gmuPw7Za)
+* 📸 Instagram: @monitoriatech
+* 📞 +55 61 9877-1629
+* 🎓 CEUB
 
 ---
 
